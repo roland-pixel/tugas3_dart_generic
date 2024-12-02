@@ -1,7 +1,7 @@
 import 'data/mydata.dart';
 
 void main() {
-  MyData<Object> data = MyData<String>("putri");
+  MyData<Object> data = MyData<String>("kharis");
 
   print(data.data);
 
